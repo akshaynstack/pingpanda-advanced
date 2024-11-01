@@ -51,11 +51,11 @@ To get started with this project, run
   pnpm run dev
 ```
 
+4. Copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
+
 ## Deploy to Vercel
 
 ...Coming Soon
-
-and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
 
 ## Credits
 
