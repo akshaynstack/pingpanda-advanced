@@ -33,9 +33,27 @@ Built with the Next.js App Router, Postgres, TypeScript, Tailwind & Clerk
 
 To get started with this project, run
 
+1. Clone this repo
+
 ```bash
   git clone https://github.com/akshaynstack/pingpanda-advanced.git
 ```
+
+2. Install dependacy
+
+```bash
+  pnpm install
+```
+
+3. Start Local Host
+
+```bash
+  pnpm run dev
+```
+
+## Deploy to Vercel
+
+...Coming Soon
 
 and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
 
