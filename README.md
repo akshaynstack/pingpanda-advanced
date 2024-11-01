@@ -1,4 +1,4 @@
-# PingPanda - A Modern Fullstack Event Monitoring SaaS and with Extended Advanced Tools for Marketing Team and Developers
+# PingPanda - A Modern Fullstack Event Monitoring SaaS with Extended Advanced Tools for Marketing Team and Developers
 
 Built with the Next.js App Router, Postgres, TypeScript, Tailwind & Clerk
 
