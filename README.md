@@ -18,6 +18,17 @@ Built with the Next.js App Router, Postgres, TypeScript, Tailwind & Clerk
 - ⌨️ 100% written in TypeScript
 - 🎁 ...much more
 
+## Advanced Features Roadmap
+
+- [ ] **Integrate Gemini AI**
+- [ ] **SEO Auditing Tool**
+- [ ] **AI Image Generation**
+- [ ] **AI Blog Post Generator**
+- [ ] **Image to Text Converter**
+- [ ] **Code Beautifier for Developers**
+- [ ] **More Coming Soon**
+
+
 ## Getting started
 
 To get started with this project, run
