@@ -39,6 +39,10 @@ To get started with this project, run
 
 and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
 
+## Credits
+
+- [Josh](https://github.com/joschan21/pingpanda) for initial project
+
 
 ## Acknowledgements
 
